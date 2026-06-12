@@ -19,11 +19,6 @@ Aplikasi untuk membantu pedagang sate menentukan lokasi jualan paling optimal me
 
 ---
 
-## 📱 Demo
-(taruh screenshot di sini)
-
----
-
 ## 🔗 Repositories
 
 - 🔙 Backend API: https://github.com/username/sate-optimizer-api  
