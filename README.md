@@ -21,7 +21,7 @@ Aplikasi untuk membantu pedagang sate menentukan lokasi jualan paling optimal me
 
 ## 🔗 Repositories
 
-- 🔙 Backend API: https://github.com/sultanichiro/ai-sate-optimizer-backend.git  
+- 🔙 Backend API: https://github.com/sultanichiro/ai-sate-optimization-backend.git  
 - 📱 Frontend App: https://github.com/sultanichiro/ai-sate-optimization-frontend.git  
 
 ---
